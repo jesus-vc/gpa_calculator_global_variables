@@ -1,6 +1,6 @@
 # gpa_calculator_global_variables
 
-Created by Jesus Vasquez-Cipriano on 1/23/2020.
+Created by Jesus Vasquez-Cipriano on 1/24/2020.
 
 Copyright © 2020 Jesus Vasquez-Cipriano. All rights reserved.
 
