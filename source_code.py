@@ -2,7 +2,6 @@
 #Last Edit on: January 24, 2020
 #Copyright © 2020 Jesus Vasquez-Cipriano. All rights reserved.
 
-
 #This program calculates the overall GPA, given the course grade and corresponding unit count.
 #Course count is also automatically calculated.
 
